@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gianz Dev</string>
+    <string name="name">Fernando Gianzanti</string>
+    <string name="job">Front-End Developer</string>
+    <string name="letstalk">Entre em Contato</string>
+    <string name="more_button"> Sobre </string>
+    <string name="s_button"> Currículo </string>
+    <string name="t_button"> Não sei</string>
+    <string name="q_button"> O que mais </string>
+</resources>

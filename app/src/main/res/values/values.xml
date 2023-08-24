@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Poppins" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/poppinsregular</item>
+    </style>
+</resources>
